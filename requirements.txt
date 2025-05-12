@@ -1,0 +1,4 @@
+Flask==2.3.2
+google-genai==0.3.0
+google-cloud-aiplatform==1.36.0
+google-cloud-storage==2.10.0

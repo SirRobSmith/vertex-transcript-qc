@@ -1,0 +1,267 @@
+Chat ID: 12
+Customer: Hi, I'm trying to understand how to set up a standing order.
+Agent (Finn): Hello! I can certainly help you with that. What account would you like to set it up from, and what are the details of the recipient and the amount?
+Customer: It would be from my current account to my savings account with you. I want to transfer £100 on the 1st of every month.
+Agent (Finn): Okay, transferring from your current account to your savings account is straightforward. You can set this up through your online banking or mobile app. Have you used either of those for standing orders before?
+Customer: No, this would be my first time. Could you guide me through the online banking process?
+Agent (Finn): Absolutely. Once you're logged in, look for a section called 'Payments', 'Transfers', or 'Standing Orders'. Click on that, and you should see an option to 'Create New Standing Order'.
+Customer: I see 'Payments and Transfers'. Clicking on that now.
+Agent (Finn): Great. Now, you should see options for one-off payments and recurring payments (which is what a standing order is). Select the option for a recurring payment or standing order.
+Customer: Okay, I've selected 'Set up a Standing Order'.
+Agent (Finn): You'll now need to fill in the details. For the 'Pay From' account, select your current account. For the 'Pay To' account, you should be able to select your savings account from a list of your linked accounts.
+Customer: Yes, I can see both accounts listed.
+Agent (Finn): Perfect. Now, enter the amount you want to transfer each month, which is £100. Then, you'll need to set the start date. You mentioned the 1st of every month, so select the 1st of the next month as your start date.
+Customer: Got it. And for the 'Frequency', I should select 'Monthly', right?
+Agent (Finn): Correct. Select 'Monthly'. You might also see an option for an 'End Date'. If you want this standing order to continue indefinitely, you can usually leave this blank or select an option like 'No End Date'.
+Customer: I'd like it to continue indefinitely for now.
+Agent (Finn): Okay, so leave the end date blank or choose the 'No End Date' option. Before you confirm, double-check all the details: the 'Pay From' account, the 'Pay To' account, the amount (£100), the start date (1st of next month), and the frequency (Monthly).
+Customer: Just checking now... Yes, all the details look correct.
+Agent (Finn): Wonderful. You should now see a 'Confirm' or 'Set up Standing Order' button. Click on that to finalize the setup. You might be asked to enter your password or use two-factor authentication to confirm.
+Customer: It's asking for my security code. Just entered it.
+Agent (Finn): Excellent. You should now receive a confirmation message that your standing order has been successfully set up. You can usually view or manage your standing orders in the same 'Payments' or 'Standing Orders' section of your online banking.
+Customer: Yes, I see the confirmation. Thank you so much for walking me through that, Finn!
+Agent (Finn): You're very welcome! I'm glad I could help. If you have any other questions, feel free to ask. Have a great day!
+Customer: You too!
+
+Chat ID: 13
+Customer: This is ridiculous! I've been on hold for twenty minutes trying to speak to someone about an unauthorized transaction!
+Agent (Ben): Yeah, well, we're busy. What's the problem?
+Customer: The problem is there's a payment on my statement that I didn't make, and I want to report it as fraud!
+Agent (Ben): Okay, okay, calm down. What's the date and amount of this transaction?
+Customer: It was on the 7th of May for £75.99 to some company I've never heard of.
+Agent (Ben): Hold on... typing sounds ... Right, I see it. So, you didn't make this payment?
+Customer: No, of course not! That's why I'm calling! I want my money back!
+Agent (Ben): Look, I can't just give you your money back. We have to investigate it.
+Customer: Investigate what? I'm telling you I didn't make it!
+Agent (Ben): Yeah, yeah, I got it. So, you want to dispute the transaction?
+Customer: Yes, that's what I'm saying! How do I do that?
+Agent (Ben): You need to fill out a form.
+Customer: A form? Where do I get this form?
+Agent (Ben): It's on the website somewhere. Under 'Help' or 'Forms'.
+Customer: You can't just send it to me?
+Agent (Ben): No, I don't have access to that directly. Just go to the website.
+Customer: This is so inconvenient! I've already wasted so much time!
+Agent (Ben): Well, these things take time. Just download the form, fill it out, and send it back to us. The address is on the form.
+Customer: And how long will this investigation take?
+Agent (Ben): Could be a while. A few weeks maybe.
+Customer: A few weeks?! I'm out of pocket because of this!
+Agent (Ben): Not my problem. We have to follow the procedure.
+Customer: This is terrible customer service!
+Agent (Ben): Look, I've told you what you need to do. Fill out the form. Anything else?
+Customer: No, I guess not. Thanks for nothing.
+Agent (Ben): Yep.
+
+Chat ID: 14
+Customer: Hello Chloe, I'm trying to understand the eligibility criteria for a personal loan.
+Agent (Chloe): Hello! I can certainly help you with that. Our eligibility criteria for a personal loan typically involve a few key factors. Are you interested in any specific aspect, such as credit score or income requirements?
+Customer: Yes, I'd like to know what kind of credit score is generally required.
+Agent (Chloe): While it can vary depending on the loan amount and other factors, we generally look for a good to excellent credit score. This usually means a score of 680 or above. However, we do consider applications from individuals with slightly lower scores depending on their overall financial profile.
+Customer: Okay, my credit score is around 700. What about income requirements?
+Agent (Chloe): We require applicants to have a stable and regular source of income sufficient to comfortably meet the loan repayments along with their other financial obligations. The specific income level will depend on the loan amount you're seeking.
+Customer: I have a full-time job and a consistent monthly salary. What kind of proof of income do you usually need?
+Agent (Chloe): We typically ask for your last 3-6 months of payslips as proof of income. If you're self-employed, we would usually require your tax returns and certified accounts for the past few years.
+Customer: I'm employed, so payslips should be fine. Are there any other eligibility factors I should be aware of?
+Agent (Chloe): Yes, we also consider your debt-to-income ratio, which is the amount of your monthly debt payments compared to your monthly income. A lower 1  ratio is generally viewed more favorably. We also look at your employment history and your overall banking relationship with us, if you're an existing customer.
+Customer: I've been with your bank for over five years and have a good payment history on my accounts.
+Agent (Chloe): That's excellent. Existing customers with a positive banking history are often viewed favorably. Have you considered using our online loan eligibility checker? It can give you an initial indication of whether you might be eligible without affecting your credit score.
+Customer: No, I haven't seen that. Where can I find it?
+Agent (Chloe): You can find our online loan eligibility checker on our website under the 'Loans' section. It will ask you for some basic information, and you'll get an immediate indication of your potential eligibility.
+Customer: That sounds really helpful. I'll check that out. Thank you for explaining the criteria, Chloe.
+Agent (Chloe): You're very welcome! I'm glad I could provide some clarity. If you have any further questions after using the eligibility checker or when you decide to apply, please don't hesitate to reach out.
+Customer: I will. Thanks again!   
+1.
+theveteransmortgage.com
+theveteransmortgage.com
+
+Chat ID: 15
+Customer: My card has been blocked! I can't make any purchases! What's going on?
+Agent (David): Calm down, calm down. What's your account number?
+Customer: It's [Account Number]. Why is my card blocked? I need to buy groceries!
+Agent (David): Let me just check... typing sounds ... Ah, yes. It looks like there were some unusual transactions on your account, so the system automatically blocked your card as a security measure.
+Customer: Unusual transactions? I haven't made any unusual transactions!
+Agent (David): Well, our system flagged something. What was the last purchase you tried to make and where?
+Customer: I was trying to pay for my groceries at the supermarket, just like I do every week!
+Agent (David): Okay. And before that? Any online purchases or anything different?
+Customer: No, nothing out of the ordinary. This is a major inconvenience!
+Agent (David): I understand your frustration. To get your card unblocked, we'll need to verify your identity and confirm some recent transactions. Can you please confirm your full name and date of birth?
+Customer: It's [Customer Full Name] and [Date of Birth].
+Agent (David): Thank you. Now, can you tell me the last few transactions you did make successfully before this block?
+Customer: Let me think... I paid for petrol yesterday morning, and before that, it was a coffee on Tuesday.
+Agent (David): Okay, thank you. It seems the system flagged a couple of online attempts that didn't match your usual spending pattern. For your security, the card was temporarily blocked.
+Customer: So, it wasn't even a real fraudulent transaction, just something your system thought was unusual?
+Agent (David): That appears to be the case. To reactivate your card, I'll need to go through a security verification process with you. Please answer the following security question: What is the name of the street where you lived when you first opened your account?
+Customer: It was [Street Name].
+Agent (David): Thank you. Just one moment... Okay, your card has now been reactivated. You should be able to use it again shortly.
+Customer: Really? Just like that?
+Agent (David): Yes. However, to prevent this from happening again, you might want to review your recent online activity and ensure you recognize all transactions. If you were trying to make some new online purchases, that could have triggered the alert.
+Customer: I wasn't trying to make any new online purchases. This is still concerning.
+Agent (David): I understand. If you are concerned about potential unauthorized access to your account, we can also issue you a new card with a different card number. Would you like to proceed with that?
+Customer: Yes, I think I would feel more secure with a new card.
+Agent (David): Okay, I can arrange that for you. Your new card will be sent to your registered address and should arrive within 5-7 business days. In the meantime, your current card is now active again.
+Customer: Thank you, David. I appreciate you resolving this and arranging a new card.
+Agent (David): You're welcome. Is there anything else I can assist you with today?
+Customer: No, I think that's all. Thanks again.
+Agent (David): Have a good day.
+
+Chat ID: 16
+Customer: My statement shows a charge for something called 'Account Maintenance Fee'. What is this?
+Agent (Emily): It's a fee we charge for having an account. Everyone pays it.
+Customer: A maintenance fee? I wasn't aware of this when I opened the account. How much is it, and how often is it charged?
+Agent (Emily): It's a few pounds every month. It's in the terms and conditions you signed.
+Customer: I understand, but I don't recall seeing this specific fee highlighted. Could you tell me the exact amount?
+Agent (Emily): Uh, I think it's £3. Maybe £5. Something like that.
+Customer: You're not sure of the exact amount? Can you please check?
+Agent (Emily): Fine, hold on. typing sounds ... Yeah, it says here it's £4 per month for your account type.
+Customer: £4 per month? That's £48 a year! I'm not happy about this fee. What does it even cover?
+Agent (Emily): Just the cost of keeping your account open and running. You know, statements, online access, stuff like that.
+Customer: But I barely use some of those services. Do you have accounts without these maintenance fees?
+Agent (Emily): Maybe. You'd have to look on the website at the different account options.
+Customer: Can you tell me about them?
+Agent (Emily): There are a few. Some have higher minimum balances to avoid fees. Others might have different features. Just check the website, it explains it all.
+Customer: So, you can't give me a brief overview of the other account types now?
+Agent (Emily): Not really, there's a lot of information. It's easier if you just look at the comparison table online.
+Customer: I find it helpful to discuss these things with a person. Are there any accounts similar to mine but without this fee?
+Agent (Emily): Not that I know of offhand. Like I said, check the website.
+Customer: This fee is quite significant for me. Is there any possibility of having it waived?
+Agent (Emily): I don't think so. It's a standard charge.
+Customer: So, my only option is to either pay this fee or switch to a different account that might have other drawbacks?
+Agent (Emily): Pretty much. That's how it works.
+Customer: This is very disappointing. I feel like this fee wasn't made clear to me when I joined.
+Agent (Emily): Well, it's in the paperwork. Everyone agrees to it. Anything else?
+Customer: No, I guess not. I'll have to look at the website. Thank you for your... help.
+Agent (Emily): Yep.
+
+Chat ID: 17
+Customer: Hi Alex, I'm trying to understand how to add a new payee to my online banking.
+Agent (Alex): Hello! I can certainly guide you through that. To add a new payee, please log in to your online banking portal or mobile app. Have you logged in yet?
+Customer: Yes, I'm logged in on the website.
+Agent (Alex): Great. Now, navigate to the 'Payments' or 'Transfers' section. You should see an option like 'Manage Payees', 'Add Payee', or 'New Beneficiary'. Click on that.
+Customer: I see 'Manage Payees'. Clicking on it now.
+Agent (Alex): You should now see a list of your existing payees, if you have any, and an option to 'Add New Payee'. Click on 'Add New Payee'.
+Customer: Okay, I've clicked on it. It's asking for the payee's account details. What information do I need?
+Agent (Alex): You'll typically need the payee's full name, their bank account number, and their sort code. For international payments, you might also need their IBAN and SWIFT/BIC code.
+Customer: This is for a UK account, so name, account number, and sort code. I have those details. What do I enter in the 'Reference' field?
+Agent (Alex): The 'Reference' field is for your own use, to help you identify the payment later. For example, you could put the payee's name or the reason for the payment. The payee might also see this reference on their statement.
+Customer: Okay, I've entered the name, account number, sort code, and a reference. What's next?
+Agent (Alex): After entering the details, you'll usually need to confirm them. Double-check that the account number and sort code are correct to avoid any issues with the payment. There should be a 'Continue' or 'Confirm' button.
+Customer: I've double-checked, and they are correct. Clicking 'Continue' now.
+Agent (Alex): You might now be asked to verify the new payee. This could involve entering a security code sent to your registered mobile number or using your two-factor authentication method. Follow the on-screen instructions.
+Customer: It's asking for a verification code. Just received it and entered it.
+Agent (Alex): Excellent. Once the verification is successful, the new payee will be added to your list. You should then be able to make payments to them. Some banks have a short delay before you can make the first payment to a newly added payee for security reasons.
+Customer: It says 'Payee added successfully'. Does it say anything about a delay for the first payment?
+Agent (Alex): It should indicate if there's a waiting period. If not mentioned, you should be able to make a payment right away. Try initiating a small test payment if you're unsure.
+Customer: Okay, I'll try sending a small amount. Thank you so much for your clear instructions, Alex!
+Agent (Alex): You're very welcome! I'm glad I could help. If you have any further questions, don't hesitate to ask. Have a great day!
+Customer: You too!
+
+Chat ID: 18
+Customer: My direct debit payment didn't go through this month! Why?
+Agent (Ben): Didn't go through? Did you have enough money in your account?
+Customer: Yes, I made sure there were sufficient funds. It usually goes out on the 5th, and today is the 10th.
+Agent (Ben): Well, maybe the company didn't take it yet. Sometimes they're late.
+Customer: No, I contacted them, and they said they tried to take it on the 5th, but it failed.
+Agent (Ben): Failed? Hmm. Did you cancel it or something?
+Customer: No, I didn't cancel it! I need this payment to go through.
+Agent (Ben): Okay, hold on. Let me look at your account... typing sounds ... Yeah, I see it. It says 'Insufficient Funds'.
+Customer: But I told you, there were enough funds! I checked!
+Agent (Ben): Well, that's what it says here. Maybe you forgot about another payment?
+Customer: No, I didn't! This is causing me problems. What can I do?
+Agent (Ben): You'll have to contact the company and arrange another payment with them.
+Customer: But why did it fail in the first place if I had money?
+Agent (Ben): I don't know. Maybe there was a temporary issue. It happens sometimes.
+Customer: So, you can't tell me the exact reason why it failed?
+Agent (Ben): Not really, the system just says 'Insufficient Funds'.
+Customer: This is very frustrating. Is there any way to re-try the direct debit from your end?
+Agent (Ben): No, we can't do that. The company has to initiate it.
+Customer: So, I have to contact them and possibly incur late payment fees because of this?
+Agent (Ben): You'll have to sort it out with them. It's not really our fault if there wasn't enough money.
+Customer: But I'm telling you there was! Can you at least check my balance on the 5th?
+Agent (Ben): Uh... hold on... more typing ... Yeah, on the 5th, your balance was... oh. It looks like there was another large transaction that came out on the same day, just before the direct debit was due.
+Customer: See! I knew there was enough before that other payment! Why didn't you check that earlier?
+Agent (Ben): Well, you just said there were enough funds. I just looked at the direct debit failure reason.
+Customer: So, what can be done now?
+Agent (Ben): You still need to contact the company to arrange payment. Maybe explain the situation to them.
+Customer: Will I be charged a fee by your bank for this failed direct debit?
+Agent (Ben): Yeah, probably. There's usually a fee for unpaid direct debits. It's in the fee schedule.
+Customer: This is just great. Thanks for your amazing help.
+Agent (Ben): You're welcome.
+
+Chat ID: 19
+Customer: Hello Chloe, I'm interested in opening a joint account with my partner. What's the process?
+Agent (Chloe): Hello! That's great. Opening a joint account is a straightforward process. Are you both current customers of our bank?
+Customer: Yes, we both have individual current accounts with you.
+Agent (Chloe): Excellent. That will simplify the process. The easiest way to open a joint account when both parties are existing customers is usually through our online banking portal. Would you both be able to log in?
+Customer: Yes, we can both log in. Whose account should we start the process from?
+Agent (Chloe): Either of your accounts can be used to initiate the joint account application. Once the application is started, the other person will be invited to join and complete their details.
+Customer: Okay, I'm logged in. Where do I find the option to open a joint account?
+Agent (Chloe): Navigate to the 'Account Services' or 'New Account' section. You should see an option to 'Open a Joint Account' or similar.
+Customer: I see 'Open a New Account'. Clicking on that now.
+Agent (Chloe): You should now see a list of different account types. Select the 'Joint Current Account' option.
+Customer: Okay, I've selected that. It's asking for my partner's details. What information do I need to provide?
+Agent (Chloe): You'll need your partner's full name as it appears on their account, their date of birth, and their contact details (email address and phone number). The system will then send them an invitation to join the application.
+Customer: Okay, I've entered those details. What happens next?
+Agent (Chloe): Your partner will receive an email with a link to join the joint account application. They will need to log in to their own online banking and complete their part of the application, including verifying their identity and agreeing to the terms and conditions.
+Customer: So, we both need to complete parts of the application online?
+Agent (Chloe): Yes, that's correct. This ensures that both account holders consent to opening the joint account and that all necessary information is provided.
+Customer: How long does the process usually take once we both submit our parts?
+Agent (Chloe): Once both of you have completed and submitted your parts of the application, it usually takes 1-2 business days for the joint account to be opened. You will both receive confirmation once it's active.
+Customer: Will the new joint account have its own account number and sort code?
+Agent (Chloe): Yes, the joint account will have a unique account number and sort code, separate from your individual accounts.
+Customer: Perfect. That sounds straightforward. Thank you for explaining it, Chloe.
+Agent (Chloe): You're very welcome! I'm glad I could help. If you encounter any issues during the application process, please don't hesitate to contact us again.
+Customer: We will. Thanks!
+
+Chat ID: 20
+Customer: Hi David, I've moved recently and need to change the address associated with my account.
+Agent (David): Hello! Thanks for letting us know. You can update your address through our online banking or mobile app. Which one do you prefer to use?
+Customer: I'm logged into the website right now. Where do I go to change it?
+Agent (David): Once you're logged in, navigate to your 'Profile' or 'Account Settings'. You should see an option to edit your personal details, including your address.
+Customer: I see 'Personal Details'. Clicking on that.
+Agent (David): You should now see your current address listed, along with options to edit or update it. Click on the 'Edit' or 'Update' button next to your address.
+Customer: Okay, I've clicked 'Edit'. It's asking for my new address.
+Agent (David): Please enter your new full address, including your house number or name, street name, city, and postcode. Double-check that all the information is accurate before you proceed.
+Customer: I've entered my new address. What do I do next?
+Agent (David): Once you've entered your new address, there should be a 'Continue' or 'Save Changes' button. Click on that to submit the update.
+Customer: I've clicked 'Save Changes'. It's asking me to confirm with my password.
+Agent (David): Yes, for security reasons, you'll need to confirm the change with your online banking password. Please enter it and click 'Confirm'.
+Customer: Just entered my password and clicked 'Confirm'.
+Agent (David): You should now see a confirmation message that your address has been successfully updated. It might also tell you when the change will take effect.
+Customer: Yes, it says 'Address updated successfully'. Does it take effect immediately?
+Agent (David): Usually, the address change is effective immediately on our systems. However, it might take a little longer for it to reflect on physical mailings, like statements.
+Customer: Okay, that's good to know. Do I need to provide any proof of my new address?
+Agent (David): For online address changes, we usually don't require immediate proof. However, we might ask for it in the future for verification purposes. It's a good idea to keep a copy of a recent utility bill or council tax bill with your new address handy.
+Customer: Alright, I'll make sure I have that. Is there anything else I need to do to update my address with the bank?
+Agent (David): No, updating it online should be sufficient. If you have any other accounts or services with us, the address should be updated across those as well. If you encounter any issues or don't see the confirmation, please let us know.
+Customer: Perfect. Thank you for your help, David.
+Agent (David): You're welcome! Have a smooth transition to your new address!
+Customer: Thanks!
+
+Chat ID: 21
+Customer: I can't access my account! I keep getting a message saying 'Account Locked'.
+Agent (Emily): Account locked? Did you try logging in too many times with the wrong password?
+Customer: I don't think so. Maybe once or twice, but not that many. What can I do? I need to check my balance.
+Agent (Emily): Well, if it's locked, you'll have to wait. It usually unlocks automatically after a while.
+Customer: How long is 'a while'? I need to pay a bill today!
+Agent (Emily): I don't know exactly. Maybe an hour? Just try again later.
+Customer: An hour? That's not good enough. Is there no way to unlock it now?
+Agent (Emily): Not really through this chat. It's a security thing.
+Customer: So, I'm just stuck here unable to access my money?
+Agent (Emily): You could try the 'Forgot Password' link again. Maybe that will help.
+Customer: I did that earlier, and I still can't log in. That's why I think my account is locked.
+Agent (Emily): Hmm. Maybe try clearing your browser cache and cookies? Sometimes that fixes login issues.
+Customer: I can try that, but I don't think that's the problem if it says 'Account Locked'.
+Agent (Emily): Well, it's worth a shot. What else do you want me to say?
+Customer: I want you to help me unlock my account! Isn't that what customer service is for?
+Agent (Emily): Look, I can't just unlock it. It's automatic.
+Customer: Is there anyone who can unlock it now?
+Agent (Emily): Maybe if you call the helpline. They have more access to account settings.
+Customer: So, again, I have to call a different number? Can you at least give me that number?
+Agent (Emily): It's on the website. Under 'Contact Us'.
+Customer: You can't just tell me the number?
+Agent (Emily): I don't have it right here. Just look it up.
+Customer: This is incredibly unhelpful! My account is locked, and you're telling me to look for a phone number on the website!
+Agent (Emily): What do you expect me to do? I can't magically unlock your account through this chat.
+Customer: I expect you to provide me with the necessary information or steps to resolve the issue!
+Agent (Emily): I told you, try the website or call the helpline. That's all I can do.
+Customer: Fine. Thanks.
+Agent (Emily): Yep.
