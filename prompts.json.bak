@@ -1,0 +1,73 @@
+[
+    {
+        "category": "manual_authentication",
+        "artefacts": [
+            {
+                "path": "example.txt"
+            },
+            {
+                "path": "example2.txt"
+            }
+        ],
+        "prompts": [
+            {
+                "prompt": "The agent completed basic manual authentication steps with the customer."
+            },
+            {
+                "prompt": "The agent did not complete basic manual authentication steps with the customer."
+            }
+        ]
+    },
+    {
+        "category": "brevity",
+        "artefacts": [
+            {
+                "path": "example.txt"
+            }
+        ],
+        "prompts": [
+            {
+                "prompt": "Ensure responses are concise and to the point."
+            }
+        ]
+    },
+    {
+        "category": "tone_of_voice",
+        "artefacts": [
+            {
+                "path": "example.txt"
+            }
+        ],
+        "prompts": [
+            {
+                "prompt": "Maintain a professional and empathetic tone."
+            }
+        ]
+    },
+    {
+        "category": "accuracy",
+        "artefacts": [
+            {
+                "path": "example.txt"
+            }
+        ],
+        "prompts": [
+            {
+                "prompt": "Verify all information provided is correct and factual."
+            }
+        ]
+    },
+    {
+        "category": "first_contact_resolution",
+        "artefacts": [
+            {
+                "path": "example.txt"
+            }
+        ],
+        "prompts": [
+            {
+                "prompt": "Resolve the customer's issue in the first interaction."
+            }
+        ]
+    }
+]
